@@ -1,7 +1,7 @@
 {
   "name": "blur-active",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Blur the active DOM element",
   "license": "MIT",
   "repository": "bendrucker/blur-active",
