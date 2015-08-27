@@ -1,0 +1,32 @@
+{
+  "name": "blur-active",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Blur the active DOM element",
+  "license": "MIT",
+  "repository": "bendrucker/blur-active",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "blur",
+    "active",
+    "dom",
+    "element"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
