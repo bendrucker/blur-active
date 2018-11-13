@@ -1,4 +1,4 @@
-# blur-active [![Build Status](https://travis-ci.org/bendrucker/blur-active.svg?branch=master)](https://travis-ci.org/bendrucker/blur-active)
+# blur-active [![Build Status](https://travis-ci.org/bendrucker/blur-active.svg?branch=master)](https://travis-ci.org/bendrucker/blur-active) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/blur-active.svg)](https://greenkeeper.io/)
 
 > Blur the active DOM element
 
